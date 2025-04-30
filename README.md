@@ -12,7 +12,7 @@ Group name:
 ## Our Dataset
 We obtained out data from the State of Washington Open Data site. 
 
-Columns: 
+### Columns: 
 1. VIN (PK)(INT)
 2. Country (VARCHAR)
 3. City (VARCHAR)
@@ -31,15 +31,16 @@ Columns:
 16. Electric Utility (VARCHAR)
 17. 2020 Census Tract (INT)
 
-Rows:
+### Rows:
 
 A single EVregistration in the state of Washington
 
 
-## The 2 questions the team generated and why they are interesting and important:
-What are the questions, and why each question is important. Importance can be evaluated and
-conveyed in a variety of ways including, social, economic, cultural and other factors. Also
-indicate how they are tied to the data set or sets being used.
+## Two Questions
+### Question 1
+
+
+### Question 2
 
 ## The manipulations applied to the data set as part of the analysis:
 Were there any manipulations or calculations that needed to be performed on the data, what were
