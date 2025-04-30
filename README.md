@@ -9,6 +9,9 @@ Group name:
 4. Mulnix, Hayden
 5. Nguyen, Timmy
 
+
+
+
 ## Our Dataset
 We obtained out data from the State of Washington Open Data site. 
 
@@ -36,15 +39,27 @@ We obtained out data from the State of Washington Open Data site.
 A single EVregistration in the state of Washington
 
 
+
+
 ## Two Questions
 ### Question 1
 
+Compare the average electric range and the maximum electric range of the top five brands in each category.
 
 ### Question 2
 
-## The manipulations applied to the data set as part of the analysis:
-Were there any manipulations or calculations that needed to be performed on the data, what were
-they, describe the purpose and how they were accomplished.
+Which county in Washington utilizes the most electric vehicles?
+
+
+
+
+## Manipulations
+On question one we had to filter the make to only display the top 5. We did this by creating the bar chart and indentifying the top 5 and then adding a filter to the make to only show the top 5 makes. We repeated this for our second bar chart.
+
+On question two we had to apply a filter to make talbeau only show the state of washington. We also had to match the ambiguous counties to only Washington counties. This had to be done or else we would have counties all over the US. Which is impossible becuase our data only contained instances in Washington. This allowed for our data to correctly display all counties in Washington. 
+
+
+
 
 ## Analysis and Results:
 Analyze and visualize the results of your analysis and describe the implications of your analysis.
