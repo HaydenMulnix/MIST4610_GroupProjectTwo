@@ -64,6 +64,7 @@ For question two, we had to apply a filter to make Tableau only show data for th
 
 #### Analysis and Results:
 Unlike question one, question two helps provide companies with insight into EV adoption across Washington state. Suppose you are working for Tesla and want to expand into more areas of Washington. It would be helpful for your team to understand the scale of EV registration across all counties. Our model supports this by showing the total number of registered EVs per county. According to our model, King County, which includes Seattle, has the highest number of EVs. A Tesla advisor may recommend advertising in nearby counties with similar levels of EV adoption.
+
 <img width="565" alt="image" src="https://github.com/user-attachments/assets/f1480561-151a-4d17-9cd3-8721d3ba27f4" />
 
 
